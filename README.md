@@ -1,4 +1,6 @@
 # ohhellyeah
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/rahatarmanahmed/ohhellyeah.js.svg)](https://greenkeeper.io/)
 Node.js port of Jon Hendren's ohhellyeah.py
 
 ## Installing
